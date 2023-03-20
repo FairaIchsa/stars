@@ -1,0 +1,90 @@
+time: 100000
+	stars: 4120
+	pulse:	1.2545e+33	2.81928e+33
+	energy: 1.79382e+39
+	mass: 6.72874e+30
+
+time: 200000
+	stars: 4103
+	pulse:	1.25536e+33	2.81948e+33
+	energy: 1.59722e+39
+	mass: 6.72874e+30
+
+time: 300000
+	stars: 4084
+	pulse:	1.25598e+33	2.82043e+33
+	energy: 1.54019e+39
+	mass: 6.72874e+30
+
+time: 400000
+	stars: 4060
+	pulse:	1.25691e+33	2.82166e+33
+	energy: 1.50537e+39
+	mass: 6.72874e+30
+
+time: 500000
+	stars: 4036
+	pulse:	1.2577e+33	2.82252e+33
+	energy: 1.48241e+39
+	mass: 6.72874e+30
+
+time: 600000
+	stars: 4006
+	pulse:	1.25855e+33	2.82367e+33
+	energy: 1.48167e+39
+	mass: 6.72874e+30
+
+time: 700000
+	stars: 3984
+	pulse:	1.2596e+33	2.82455e+33
+	energy: 1.48215e+39
+	mass: 6.72874e+30
+
+time: 800000
+	stars: 3952
+	pulse:	1.26063e+33	2.82555e+33
+	energy: 1.48819e+39
+	mass: 6.72874e+30
+
+time: 900000
+	stars: 3915
+	pulse:	1.26154e+33	2.82726e+33
+	energy: 1.49525e+39
+	mass: 6.72874e+30
+
+time: 1e+06
+	stars: 3882
+	pulse:	1.26275e+33	2.82833e+33
+	energy: 1.49244e+39
+	mass: 6.72874e+30
+
+time: 1.1e+06
+	stars: 3853
+	pulse:	1.26335e+33	2.82961e+33
+	energy: 1.48309e+39
+	mass: 6.72874e+30
+
+time: 1.2e+06
+	stars: 3822
+	pulse:	1.26446e+33	2.83181e+33
+	energy: 1.48021e+39
+	mass: 6.72874e+30
+
+time: 1.3e+06
+	stars: 3785
+	pulse:	1.26522e+33	2.83379e+33
+	energy: 1.48584e+39
+	mass: 6.72874e+30
+
+time: 1.4e+06
+	stars: 3756
+	pulse:	1.26586e+33	2.83535e+33
+	energy: 1.48856e+39
+	mass: 6.72874e+30
+
+time: 1.5e+06
+	stars: 3722
+	pulse:	1.26614e+33	2.83725e+33
+	energy: 1.48561e+39
+	mass: 6.72874e+30
+
